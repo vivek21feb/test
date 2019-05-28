@@ -22,7 +22,7 @@ pod 'test'
 
 ## Author
 
-harshit-dwivedi, vivek21feb@gmail.com
+vivek21feb@gmail.com
 
 ## License
 
