@@ -1,0 +1,16 @@
+PODS:
+  - test (0.1.0)
+
+DEPENDENCIES:
+  - test (from `../`)
+
+EXTERNAL SOURCES:
+  test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  test: 8f1f85bd804e6472394efe6e457e4d38a306808f
+
+PODFILE CHECKSUM: 2da4f48945aaeb2a900a36ac14262f535d696217
+
+COCOAPODS: 1.7.0
